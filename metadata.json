@@ -1,0 +1,6 @@
+{
+  "name": "Xero AI Monthly Reporting & Variance Assistant",
+  "description": "Enterprise reporting tool integrating Xero data, calculating deterministic monthly & YTD variances, flagging anomalies, and generating AI-grounded management commentary with CPA review workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
